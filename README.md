@@ -2,7 +2,7 @@
 
 Questo repository contiene i dati cartografici digitali e i materiali associati alla Carta Geologica del Bacino del Crati - foglio 551 - Bisignano - scala 1:50.000. 
 
-CITAZIONE BIBLIOGRAFICA: Lanzafame G., and Zuffa G.G. (1976) - Geologia e petrografia del Foglio Bisignano (Bacino del Crati, Calabria), Geologica Romana, v. 15, p. 223-270.
+Referenza: Lanzafame G., and Zuffa G.G. (1976) - Geologia e petrografia del Foglio Bisignano (Bacino del Crati, Calabria), Geologica Romana, v. 15, p. 223-270.
 
 IL DATASET INCLUDE:
 
@@ -23,3 +23,5 @@ IL DATASET INCLUDE:
 8. Estratto IGM 1:25.000: Estratto dalla "Carta Topografica d'Italia" alla scala 1:25.000, della SERIE 25V. (DIMENSIONI ELEVATE - RICHIEDERE ALLA MAIL: ettore.falsetta@unical.it)
 
 9. Progetto QGIS: File di progetto QGIS (.qgz) contenente tutti i layer e le impostazioni per un facile accesso e manipolazione dei dati.
+
+DOI REPOSITORY: <a href="https://doi.org/10.5281/zenodo.16744848"><img src="https://zenodo.org/badge/1032421943.svg" alt="DOI"></a>
