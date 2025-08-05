@@ -2,6 +2,9 @@
 
 Questo repository contiene i dati cartografici digitali e i materiali associati alla Carta Geologica del Bacino del Crati - foglio 551 - Bisignano - scala 1:50.000. 
 
+Se utilizzi questo dataset, ti preghiamo di citarlo come di seguito:
+Falsetta, E. (2025). Carta Geologica del Bacino del Crati, scala 1:50.000, in formato vettoriale (Version 1.0) [Data set]. https://doi.org/10.5281/zenodo.16744849 
+
 Referenza: Lanzafame G., and Zuffa G.G. (1976) - Geologia e petrografia del Foglio Bisignano (Bacino del Crati, Calabria), Geologica Romana, v. 15, p. 223-270.
 
 IL DATASET INCLUDE:
