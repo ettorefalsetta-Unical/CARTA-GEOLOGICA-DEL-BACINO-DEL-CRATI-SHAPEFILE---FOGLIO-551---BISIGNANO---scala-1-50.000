@@ -1,11 +1,24 @@
 cff-version: 1.2.0
-message: "If you use this, please cite it as below."
+title: >-
+  Carta Geologica del Bacino del Crati, scala 1:50.000, in
+  formato vettoriale
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-- family-names: "Falsetta"
-  given-names: "Ettore"
-  orcid: "https://orcid.org/0000-0001-7195-6868"
-title: "Carta Geologica del Bacino del Crati, scala 1:50.000, in formato vettoriale"
-version: 2.0.4
-doi: 10.5281/zenodo.16744849
-date-released: 2025-08-05
-url: "https://github.com/ettorefalsetta-Unical/CARTA-GEOLOGICA-DEL-BACINO-DEL-CRATI-SHAPEFILE---FOGLIO-551---BISIGNANO---scala-1-50.000"
+  - given-names: Ettore
+    family-names: Falsetta
+    email: ettore.falsetta@unical.it
+    affiliation: >-
+      Università della Calabria - Dipartimento di Ingegneria
+      dell'Ambiente
+    orcid: 'https://orcid.org/0000-0001-7195-6868'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16744849
+repository-code: >-
+  https://github.com/ettorefalsetta-Unical/CARTA-GEOLOGICA-DEL-BACINO-DEL-CRATI-SHAPEFILE---FOGLIO-551---BISIGNANO---scala-1-50.000
+version: '1.0'
+date-released: '2025-08-05'
+
