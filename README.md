@@ -10,7 +10,7 @@ IL DATASET INCLUDE:
 
 2. Carta Georeferenziata: Versione georeferenziata della carta, pronta per l'uso in software GIS, SR: EPSG:32633 - WGS 84 / UTM zone 33N.
 
-3. Articolo Associato: L'articolo scientifico associato alla carta geologica - Lanzafame & Zuffa (1976).
+3. Articolo Associato: L'articolo scientifico associato alla carta geologica - Lanzafame & Zuffa (1976). https://www.academia.edu/22872340/LANZAFAME_G_e_ZUFFA_G_G_1976_Geologia_e_petrografia_del_Foglio_Bisignano_Bacino_del_Crati_Calabria_Geologica_Romana_v_15_p_223_270
 
 4. Layer Vettorializzati: Layer poligonali e lineari derivati dalla carta, inclusi unità geologiche e caratteristiche strutturali, SR: EPSG:32633 - WGS 84 / UTM zone 33N.
 
