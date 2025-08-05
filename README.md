@@ -6,7 +6,7 @@ CITAZIONE BIBLIOGRAFICA: Lanzafame G., and Zuffa G.G. (1976) - Geologia e petrog
 
 IL DATASET INCLUDE:
 
-1. Carta Geologica Originale Scansionata: Scansione ad alta risoluzione della carta geologica originale.
+1. Carta Geologica Originale Scansionata: Scansione ad alta risoluzione della carta geologica originale. https://www.pconti.net/egeo_results.php?id=cggr040
 
 2. Carta Georeferenziata: Versione georeferenziata della carta, pronta per l'uso in software GIS, SR: EPSG:32633 - WGS 84 / UTM zone 33N.
 
